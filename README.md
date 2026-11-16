@@ -14,6 +14,7 @@ detection rules and vulnerability advisories these reports refer to, plus an
 | Actor | Type | Updated |
 |:--|:--|:--|
 | [INC Ransom](actors/inc-ransom.md) | Ransomware-as-a-Service | 2026-11-16 |
+| [The Gentlemen](actors/the-gentlemen.md) | Ransomware-as-a-Service | 2026-11-16 |
 
 ### Weekly summaries
 | Week | Highlights |
