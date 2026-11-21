@@ -19,6 +19,7 @@ detection rules and vulnerability advisories these reports refer to, plus an
 ### Weekly summaries
 | Week | Highlights |
 |:--|:--|
+| [16–21 November 2026](weekly/2026-W47.md) | 9 KEV additions, 7 with three-day deadlines (vCenter, Cisco Expressway, SAP, Apache Roller); 343 ransomware leak-site postings; N0n most active |
 | [9–15 November 2026](weekly/2026-W46.md) | 12 KEV additions, 8 with three-day deadlines; 201 ransomware leak-site postings; INC Ransom most active |
 
 ## How these reports are written
